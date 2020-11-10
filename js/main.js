@@ -20,7 +20,7 @@ function findWords(){
 /*Write a fucntion that takes in an array and removes every even index with a splice,
 and replaces it with the string "even index" */
 
-Given arr == ["Max","Baseball","Reboot","Goku","Trucks","Rodger"]
+Givenarr == ["Max","Baseball","Reboot","Goku","Trucks","Rodger"]
 
 function replaceEvens(arr){
     for(let i = 0; i < replaceEvens.length; i++){
